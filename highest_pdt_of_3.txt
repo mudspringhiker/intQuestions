@@ -1,0 +1,9 @@
+Given a list of integers, find the highest product you can get from three of the integers.
+
+The input lists_of_ints will always have a least three integers.
+
+Examples:
+
+highest_pdt_of_3([-3, -1, 0, 1, 1, 1]) ==> [-3, -1, 1]
+
+highest_pdt_of_3([1,2,3,4]) ==> [2,3,4]
