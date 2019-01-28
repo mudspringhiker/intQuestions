@@ -1,0 +1,13 @@
+Given a 2D array of digits or grid, try to find the occurence of a given 2D pattern of digits.
+
+Example:
+Input: 
+Grid: [[1,2,3,4],
+       [9,8,7,6],
+       [1,1,1,1],
+       [2,2,2,2]]
+Pattern:
+      8 7
+      1 1
+      
+Source: PyLadies meetup
