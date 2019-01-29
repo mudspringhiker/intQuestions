@@ -13,6 +13,4 @@ nums2 = [2,5,6],       n = 3
 
 Output: [1,2,2,3,5,6]
 
-Solution attempt 1:
-
-https://gist.github.com/mudspringhiker/a9820d1d20c2a8699cd07e014f6e6805
+![Solution attempt 1](https://gist.github.com/mudspringhiker/a9820d1d20c2a8699cd07e014f6e6805)
