@@ -32,7 +32,5 @@ class Solution:
             else:
                 nums1[m+n-1] = nums1[m-1]
                 m -= 1
-        print("n", n)
-        print("m", m)
         if n > 0:
             nums1[0:n] = nums2[0:n]
